@@ -1,0 +1,20 @@
+{
+  "140240": {
+    "name": "140240: Massage Cast Rear",
+    "description": "A generative music NFT created with metadata seeds. Words: Massage Cast Rear, Color: #Fc9d70, Digital Root: 1, Mood: Mysterious, Genre: Orchestra, Theme: Photography, Tempo: normal, Length: [77s]",
+    "cover": "./src/merged/140240 Massage Cast Rear #Fc9d70 [Merged].png",
+    "audio": "./src/audio/140240 Mysterious Orchestra Photography normal [77s].mp3"
+  },
+  "432240": {
+    "name": "432240: Strip How Taken",
+    "description": "A generative music NFT created with metadata seeds. Words: Strip How Taken, Color: #A644de, Digital Root: 5, Mood: Peaceful, Genre: Trap, Theme: Workout & Wellness, Tempo: low, Length: [77s]",
+    "cover": "./src/merged/432240 Strip How Taken #A644de [Merged].png",
+    "audio": "./src/audio/432240 Peaceful Trap Workout & Wellness low [77s].mp3"
+  },
+  "2da240": {
+    "name": "2da240: Afternoon Passage Fence",
+    "description": "A generative music NFT created with metadata seeds. Words: Afternoon Passage Fence, Color: #94fb98, Digital Root: 3, Mood: Hopeful, Genre: Techno & Trance, Theme: Workout & Wellness, Tempo: low, Length: [77s]",
+    "cover": "./src/merged/2da240 Afternoon Passage Fence #94fb98 [Merged].png",
+    "audio": "./src/audio/2da240 Hopeful Techno & Trance Workout & Wellness low [77s].mp3"
+  }
+}
