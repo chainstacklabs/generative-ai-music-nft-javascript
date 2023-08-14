@@ -17,8 +17,8 @@
   <a target="_blank" href="https://chainstack.com/protocols/">Supported protocols</a> •
   <a target="_blank" href="https://chainstack.com/blog/">Chainstack blog</a> •
   <a target="_blank" href="https://docs.chainstack.com/quickstart/">Chainstack docs</a> •
-  <a target="_blank" href="https://api.chainstack.com/reference/">Blockchain API reference</a> •
-  <a target="_blank" href="https://console.chainstack.com/user/account/create">Start for free</a> •
+  <a target="_blank" href="https://docs.chainstack.com/quickstart/">Blockchain API reference</a> • <br> 
+  • <a target="_blank" href="https://console.chainstack.com/user/account/create">Start for free</a> •
 </p>
 
 # Generative music NFT minter tutorial [![using with dotenv-vault](https://badge.dotenv.org/using.svg?r=1)](https://www.dotenv.org/r/github.com/motdotla/dotenv?r=1)
@@ -53,7 +53,7 @@ This repository contains scripts and contracts needed to create a new wallet, ch
 1. Clone or fork this repo to a preferred location by running in CLI:  
 
 ```
-git clone https://github.com/chainstacklabs/music-nft-minter-tutorial-repo.git  
+git clone https://github.com/chainstacklabs/generative-ai-music-nft-javascript.git
 ```
 
 2. Install dependencies by running in CLI:  
