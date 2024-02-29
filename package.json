@@ -2,7 +2,7 @@
   "name": "generative-music-nft-minter-tutorial-repo",
   "version": "0.1.0",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.8.0",
+    "@openzeppelin/contracts": "^4.9.6",
     "axios": "^1.2.1",
     "canvas": "^2.11.2",
     "dotenv": "^16.0.3",
